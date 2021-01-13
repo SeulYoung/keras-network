@@ -148,3 +148,7 @@ out/
 
 # Zip files
 *.zip
+
+# Log files
+**/logs/
+
